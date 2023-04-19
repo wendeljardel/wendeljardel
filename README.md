@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Uqbar Educação e Informação Financeira](https://www.uqbar.com.br/)
 
-- 🌱 I’m currently learning **Data Analytics, Data Engineering,Pytorch, Data Driven Decision, Wind turbine fault detection**
+- 🌱 I’m currently learning **Data Analytics, Data Engineering, Pytorch, Data Driven Decision, Wind turbine fault detection**
 
 - 🤝 I’m looking for help with [Projeto 6 de Março](https://www.instagram.com/projeto6demarco/)
 
